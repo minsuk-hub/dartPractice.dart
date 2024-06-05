@@ -1,0 +1,9 @@
+{
+    "clock.active": false,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "workbench.colorTheme": "Dracula"
+    // "workbench.colorCustomizations": {
+    //     "activityBar.background": "#000000"
+
+    //   }
+}
