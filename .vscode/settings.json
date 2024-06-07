@@ -1,7 +1,7 @@
 {
     "clock.active": false,
     "java.debug.settings.onBuildFailureProceed": true,
-    "workbench.colorTheme": "DartPad Candy"
+    "workbench.colorTheme": "DartPad"
     // "workbench.colorCustomizations": {
     //     "activityBar.background": "#000000"
 
